@@ -57,9 +57,9 @@ const Home = () => {
       href="https://mvc4l-ziaaa-aaaam-aaxvq-cai.ic0.app/"
       >
       <p className='py-4 my-4 font-bold text-lg text-center text-fuchsia-600 cursor-pointer'>
-      Now, You can visit Your OpenD MarketPlace. </p> 
+      Now, You can visit Your OpenD MarketPlace, Visit 👉: https://mvc4l-ziaaa-aaaam-aaxvq-cai.ic0.app </p> 
       </Link>
-      <p className='text-blue-600 font-bold cursor-pointer'>Visit 👉: https://mvc4l-ziaaa-aaaam-aaxvq-cai.ic0.app/</p>
+      
       
       <Logout />
       <span>
